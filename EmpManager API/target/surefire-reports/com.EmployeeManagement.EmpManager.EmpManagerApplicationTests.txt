@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.EmployeeManagement.EmpManager.EmpManagerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.38 s - in com.EmployeeManagement.EmpManager.EmpManagerApplicationTests
